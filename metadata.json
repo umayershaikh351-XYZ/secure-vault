@@ -1,0 +1,6 @@
+{
+  "name": "CipherLock",
+  "description": "Hacker terminal personal security app with offline AES-256 encrypted vault and device security audit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
